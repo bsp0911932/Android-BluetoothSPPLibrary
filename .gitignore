@@ -12,10 +12,14 @@ tmp/
 *.swp
 *~.nib
 local.properties
+.travis.yml
+.idea
+.idea/*.xml
+.gradle
 .classpath
 .settings/
 .loadpath
-
+*.iml
 # External tool builders
 .externalToolBuilders/
 
